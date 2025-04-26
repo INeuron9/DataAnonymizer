@@ -77,20 +77,31 @@ The application will display both the original and anonymized data side by side 
 
 A summary section will show the number of records and transformations performed.
 
-Example
+**Example**
+
 Original Data:
 
 Name	Age	Email
+
 John Doe	29	john@example.com
+
 Jane Smith	34	jane@example.com
+
 Sam Brown	45	sam@example.com
-Anonymized Data:
+
+
+**Anonymized Data**:
 
 Name	Age	Email
+
 John D***	29.14	j***@example.com
+
 Jane S***	34.52	j***@example.com
+
 Sam B***	45.88	s***@example.com
-Future Improvements
+
+**Future Improvements**
+
 Additional anonymization techniques for other types of data.
 
 Advanced error handling and validation for user inputs.
@@ -98,8 +109,11 @@ Advanced error handling and validation for user inputs.
 Further optimizations for the GUI responsiveness.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+**Contact**
+
 If you have any questions or suggestions, feel free to open an issue on the GitHub repository or contact me directly.
 
+k224792@nu.edu.pk
