@@ -108,7 +108,7 @@ Advanced error handling and validation for user inputs.
 
 Further optimizations for the GUI responsiveness.
 
-License
+**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
