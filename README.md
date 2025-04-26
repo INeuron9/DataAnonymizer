@@ -10,6 +10,7 @@ Synthetic Data Generation
 
 The application features a user-friendly GUI developed using CustomTkinter for easy interaction with the data.
 
+
 **Features**
 
 Differential Privacy: Adds noise to numerical columns to preserve privacy.
@@ -17,9 +18,11 @@ Generalization: Masks part of the string data with asterisks for anonymization.
 Suppression: Replaces rare values in a column with ***.
 Synthetic Data Generation: Generates fake data for sensitive string columns using the Faker library.
 
+
 **GUI:**
 
 Easy-to-use interface to upload data, select anonymization techniques, and save the results.
+
 
 **Requirements**
 To run the project, you will need Python installed along with the required libraries:
@@ -47,11 +50,13 @@ View both original and anonymized datasets.
 
 Save the anonymized data to a new CSV file.
 
+
 **Usage**
 
 1. Uploading a CSV File
 
 Click on the "📂 Upload CSV" button to upload your dataset (in CSV format).
+
 
 2. Anonymizing Data
 
@@ -67,15 +72,18 @@ Synthetic: Generates fake data for string columns.
 
 Click on "🔒 Anonymize Data" to apply the selected method.
 
+
 3. Saving Anonymized Data
 
 Click on "💾 Save Anonymized CSV" to save the processed data to a new CSV file.
+
 
 4. Data Display
 
 The application will display both the original and anonymized data side by side for easy comparison.
 
 A summary section will show the number of records and transformations performed.
+
 
 **Example**
 
@@ -100,6 +108,7 @@ Jane S***	34.52	j***@example.com
 
 Sam B***	45.88	s***@example.com
 
+
 **Future Improvements**
 
 Additional anonymization techniques for other types of data.
@@ -108,9 +117,11 @@ Advanced error handling and validation for user inputs.
 
 Further optimizations for the GUI responsiveness.
 
+
 **License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 **Contact**
 
