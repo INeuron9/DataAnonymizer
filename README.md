@@ -1,4 +1,5 @@
 **Data Anonymizer Tool**
+
 Introduction
 The Data Anonymizer Tool is a Python-based application that provides data anonymization functionalities for sensitive information in CSV files. This tool utilizes different privacy-enhancing techniques to protect sensitive data while maintaining the utility of the original dataset. It supports the following anonymization methods:
 
