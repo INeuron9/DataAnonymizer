@@ -31,7 +31,7 @@ You can install the necessary libraries using the following command:
 
 py -m pip install -r requirements.txt
 
-git clone https://github.com/<your-username>/Data-Anonymizer-Tool.git
+git clone https://github.com/INeuron9/Data-Anonymizer-Tool.git
 
 
 
