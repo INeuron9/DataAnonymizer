@@ -24,50 +24,20 @@ Easy-to-use interface to upload data, select anonymization techniques, and save 
 **Requirements**
 To run the project, you will need Python installed along with the required libraries:
 
-pandas,
-numpy
+pandas,numpy,customtkinter,tkinter,faker
 
-customtkinter
-
-tkinter
-
-faker
 
 You can install the necessary libraries using the following command:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Installation
-Clone the repository:
+py -m pip install -r requirements.txt
 
-bash
-Copy
-Edit
 git clone https://github.com/<your-username>/Data-Anonymizer-Tool.git
-cd Data-Anonymizer-Tool
-Install dependencies: You can install the dependencies listed in the requirements.txt file:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-How to Run
-Download or clone this repository to your local machine.
+
 
 Run the main script to launch the application:
-
-bash
-Copy
-Edit
-python main.py
-The GUI will open, and you can:
-
 Upload a CSV file with sensitive data.
-
 Select an anonymization technique.
-
 Enter parameters like epsilon (privacy level) and k (anonymity level).
 
 View both original and anonymized datasets.
