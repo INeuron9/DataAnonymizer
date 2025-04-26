@@ -11,21 +11,20 @@ Synthetic Data Generation
 The application features a user-friendly GUI developed using CustomTkinter for easy interaction with the data.
 
 **Features**
+
 Differential Privacy: Adds noise to numerical columns to preserve privacy.
-
 Generalization: Masks part of the string data with asterisks for anonymization.
-
 Suppression: Replaces rare values in a column with ***.
-
 Synthetic Data Generation: Generates fake data for sensitive string columns using the Faker library.
 
-GUI: Easy-to-use interface to upload data, select anonymization techniques, and save the results.
+**GUI:**
 
-Requirements
+Easy-to-use interface to upload data, select anonymization techniques, and save the results.
+
+**Requirements**
 To run the project, you will need Python installed along with the required libraries:
 
-pandas
-
+pandas,
 numpy
 
 customtkinter
