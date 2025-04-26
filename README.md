@@ -36,8 +36,11 @@ git clone https://github.com/INeuron9/Data-Anonymizer-Tool.git
 
 
 Run the main script to launch the application:
+
 Upload a CSV file with sensitive data.
+
 Select an anonymization technique.
+
 Enter parameters like epsilon (privacy level) and k (anonymity level).
 
 View both original and anonymized datasets.
