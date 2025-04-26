@@ -47,11 +47,14 @@ View both original and anonymized datasets.
 
 Save the anonymized data to a new CSV file.
 
-Usage
+**Usage**
+
 1. Uploading a CSV File
+
 Click on the "📂 Upload CSV" button to upload your dataset (in CSV format).
 
 2. Anonymizing Data
+
 Set the epsilon (privacy level) and k (anonymity threshold) values.
 
 Choose the desired anonymization method from the dropdown:
@@ -65,9 +68,11 @@ Synthetic: Generates fake data for string columns.
 Click on "🔒 Anonymize Data" to apply the selected method.
 
 3. Saving Anonymized Data
+
 Click on "💾 Save Anonymized CSV" to save the processed data to a new CSV file.
 
 4. Data Display
+
 The application will display both the original and anonymized data side by side for easy comparison.
 
 A summary section will show the number of records and transformations performed.
